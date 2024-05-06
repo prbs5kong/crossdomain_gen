@@ -4,7 +4,7 @@ Temporary PyTorch implementation of [Cross-Domain Generalization: Enhancing Rare
 Representation using Diffusion Model](https://prbs5kong.github.io/assets/pdf/CVPRW_01.pdf) by [Wonseok Oh](https://prbs5kong.github.io/) et al.
 
 <p align="center">
-  <img src="https://github.com/prbs5kong/crossdomain_gen/blob/main/assets/main.pdf" />
+  <img src="https://github.com/prbs5kong/crossdomain_gen/blob/main/assets/1.png" />
 </p>
 
 
